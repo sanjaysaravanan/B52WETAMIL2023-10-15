@@ -1,0 +1,66 @@
+
+Topics:
+
+  1. xmlhttprequest --> Object use to make requests to internet
+      refer xmlhttprequest.js
+
+
+  ES5 vs ES6:
+
+    ES --> ECMAScript
+    ES5 --> ECMAScript 2011
+
+    ES6 --> ECMAScript 2015
+
+    ES6 Features:
+      1. var vs let vs const
+
+          var --> ES5 --> Global Scoped Variable
+
+          let, const --> Were introduced in ES6 --> block scoped variable
+
+      2. spread operation using ...( triple dot ) operator
+
+      3. array & object destructuring
+
+          destructuring happens only in the left hand side ( LHS )
+
+          Please refer array & object destructuring js files
+
+Task:
+  https://docs.google.com/document/d/1EIpyPItk5xMOQluX5m_cPD4KTI9AnkyqDlO26pbG4a8/edit
+
+
+  Q1:
+    ** JSON Iteration no need to iterate with *forEach* **
+
+    Do it with for, fo-in, for-of
+    Hint: Object.keys(obj), Object.values(obj)
+
+    Submit a js file
+
+  Q2:
+    Create Your own resume json
+
+    Submit JSON file
+  
+  Q3:
+    Read about window, screen, document in browser JS
+    If needed You can submit as .txt file
+  
+  Q4:
+    Codekata Practice
+
+Next Session:
+
+  2. JSON Parsing
+
+  3. Nested destructuring
+  
+  4. Rest operation
+
+  5. Object property shorthand
+
+  6. Template literals
+
+    
