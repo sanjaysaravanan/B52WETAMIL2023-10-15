@@ -42,7 +42,7 @@ Task:
   Q2:
     Create Your own resume json
 
-    Submit JSON file
+    Submit resume.json file
   
   Q3:
     Read about window, screen, document in browser JS
