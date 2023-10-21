@@ -30,10 +30,12 @@ console.log(type);
 const { age } = obj;
 console.log(age); // undefined if not age is present in the object
 
-const { age = 23 } = obj;
-console.log(age); // default value will 25 if age is not present in the object
+// add the age key
 
-const { age = 23 } = { ...obj, age: 100 };
+const { age = 23 } = obj;
+console.log(age); // default value will 23 if age is not present in the object
+
+const { age = 23 } = { ...obj };
 console.log(age);
 
 // variable name changing
